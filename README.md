@@ -78,8 +78,9 @@ Explain the different types of testing (unit, integration, system, and acceptanc
    - prioritization of tasks
    - regular reassessment of project goals and timelines.
 The importance of quality assurance is that it ensures that software products meet specified quality standards and functional requirements.
-#Part 2: Introduction to AI and Prompt Engineering
 
+
+#Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the practice of designing and refining input prompts to optimize the responses of AI models. It is crucial for improving AI accuracy and usability.
