@@ -66,6 +66,7 @@ What are some common challenges faced by software engineers? Provide strategies 
   - Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.
   - Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
   - Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
+    
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
  - Unit Testing: Testing individual components or modules of software.
  - Integration Testing: Testing interactions between different components or subsystems.
